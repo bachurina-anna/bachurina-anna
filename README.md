@@ -8,11 +8,13 @@
 
 **-** 🎓 Высшее образование (2014г.): красный диплом Санкт-Петербургского Государственного Экономического Университета по направлению Менеджмент. 
 
-**-** 📈 2014-2015 гг: Маркетинговый аналитик в <p align="left"> <a href="https://www.bn.ru/" target="_blank" rel="noreferrer"><img src="https://www.urbanawards.ru/storage/partners/upload/92d9e41a9eab214d5dd6546929f8ec0b.png" width="32" height="32" /></a></p>
+**-** 📈 2014-2015 гг: Маркетинговый аналитик в <p align="left"> <a href="https://www.bn.ru/" target="_blank" rel="noreferrer"><img src="https://www.urbanawards.ru/storage/partners/upload/92d9e41a9eab214d5dd6546929f8ec0b.png" width="50" height="32" /></a></p>
 
-**-** :zap: 2015-2023 гг: Ведущий аналитик данных|Руководитель группы маркетинговых исследований в <p align="left"> <a href="https://www.lsrgroup.ru/" target="_blank" rel="noreferrer"><img src="https://exposfera.spb.ru/files/21_vistavka/lsrlogo.jpg" width="32" height="32" /></a></p>
+**-** :zap: 2015-2023 гг: Ведущий аналитик данных|Руководитель группы маркетинговых исследований в <p align="left"> <a href="https://www.lsrgroup.ru/" target="_blank" rel="noreferrer"><img src="https://exposfera.spb.ru/files/21_vistavka/lsrlogo.jpg" width="50" height="32" /></a></p>
 
-**-** :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-bachurina_anna-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/bachurina_anna)
+
+## Контакты:
+[![Telegram Badge](https://img.shields.io/badge/-bachurina_anna-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/bachurina_anna)
 
 ## Стек:
 
