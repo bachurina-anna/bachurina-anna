@@ -9,9 +9,9 @@
 **-** 🎓 Высшее образование (2014г.): красный диплом Санкт-Петербургского Государственного Экономического Университета по направлению Менеджмент. 
 
 **-** 📈 2014-2015 гг: Маркетинговый аналитик в 
-[<img align="center" alt="BN.ru" width="40px" src="https://www.urbanawards.ru/storage/partners/upload/92d9e41a9eab214d5dd6546929f8ec0b.png" />](https://www.bn.ru/)
+[<img align="center" alt="BN.ru" width="50px" src="https://www.urbanawards.ru/storage/partners/upload/92d9e41a9eab214d5dd6546929f8ec0b.png" />](https://www.bn.ru/)
 
-**-** :zap: 2015-2023 гг: Ведущий аналитик данных|Руководитель группы маркетинговых исследований в [<img align="center" alt="LSR Group" width="40px" src="https://exposfera.spb.ru/files/21_vistavka/lsrlogo.jpg" />](https://www.lsrgroup.ru/))
+**-** :zap: 2015-2023 гг: Ведущий аналитик данных|Руководитель группы маркетинговых исследований в [<img align="center" alt="LSR Group" width="50px" src="https://exposfera.spb.ru/files/21_vistavka/lsrlogo.jpg" />](https://www.lsrgroup.ru/))
 
 
 ## Контакты:
