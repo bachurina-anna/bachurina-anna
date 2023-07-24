@@ -8,14 +8,15 @@
 
 **-** 🎓 Высшее образование (2014г.): красный диплом Санкт-Петербургского Государственного Экономического Университета по направлению Менеджмент. 
 
-**-** 📈 2014-2015 гг: Маркетинговый аналитик в <p align="left"> <a href="https://www.bn.ru/" target="_blank" rel="noreferrer"><img src="https://www.urbanawards.ru/storage/partners/upload/92d9e41a9eab214d5dd6546929f8ec0b.png" width="50" height="32" /></a></p>
+**-** 📈 2014-2015 гг: Маркетинговый аналитик в <p align="left"> <a href="https://www.bn.ru/" target="_blank" rel="noreferrer"><img src="https://www.urbanawards.ru/storage/partners/upload/92d9e41a9eab214d5dd6546929f8ec0b.png" width="50" height="40" /></a></p>
 
-**-** :zap: 2015-2023 гг: Ведущий аналитик данных|Руководитель группы маркетинговых исследований в <p align="left"> <a href="https://www.lsrgroup.ru/" target="_blank" rel="noreferrer"><img src="https://exposfera.spb.ru/files/21_vistavka/lsrlogo.jpg" width="50" height="32" /></a></p>
+**-** :zap: 2015-2023 гг: Ведущий аналитик данных|Руководитель группы маркетинговых исследований в <p align="left"> <a href="https://www.lsrgroup.ru/" target="_blank" rel="noreferrer"><img src="https://exposfera.spb.ru/files/21_vistavka/lsrlogo.jpg" width="60" height="40" /></a></p>
 
 
 ## Контакты:
-[![Telegram Badge](https://img.shields.io/badge/-bachurina_anna-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/bachurina_anna)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/mail-dot-ru.svg' alt='mail-dot-ru' height='40'>](anita0910@mail.ru)
+[<img align="left" alt="bazraider | LinkedIn" width="40px" src="https://img.icons8.com/color/48/000000/linkedin-2--v1.png" />](https://www.linkedin.com/in/добавить/)
+[<img align="left" alt="bazraider | Telegram" width="40px" src="https://img.icons8.com/fluency/48/000000/telegram-app.png" />](https://t.me/bachurina_anna)
+[<img align="left" alt="bazraider | Mail" width="40px" src="https://papik.pro/uploads/posts/2022-01/1643628397_1-papik-pro-p-pochta-logotip-1.png" />](mailto:anita0910@mail.ru)
 
 
 ## Стек:
