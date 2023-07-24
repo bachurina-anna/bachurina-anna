@@ -15,6 +15,8 @@
 
 ## Контакты:
 [![Telegram Badge](https://img.shields.io/badge/-bachurina_anna-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/bachurina_anna)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/mail-dot-ru.svg' alt='mail-dot-ru' height='40'>](anita0910@mail.ru)
+
 
 ## Стек:
 
