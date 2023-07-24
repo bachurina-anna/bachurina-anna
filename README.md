@@ -9,9 +9,9 @@
 **-** 🎓 Высшее образование (2014г.): красный диплом Санкт-Петербургского Государственного Экономического Университета по направлению Менеджмент. 
 
 **-** 📈 2014-2015 гг: Маркетинговый аналитик в 
-[<img align="center" alt="BN.ru" width="50px" src="https://www.urbanawards.ru/storage/partners/upload/92d9e41a9eab214d5dd6546929f8ec0b.png" />](https://www.bn.ru/)
+[<img align="center" alt="BN.ru" width="60px" src="https://www.urbanawards.ru/storage/partners/upload/92d9e41a9eab214d5dd6546929f8ec0b.png" />](https://www.bn.ru/)
 
-**-** :zap: 2015-2023 гг: Ведущий аналитик данных|Руководитель группы маркетинговых исследований в [<img align="center" alt="LSR Group" width="50px" src="https://exposfera.spb.ru/files/21_vistavka/lsrlogo.jpg" />](https://www.lsrgroup.ru/))
+**-** :zap: 2015-2023 гг: Ведущий аналитик данных|Руководитель группы маркетинговых исследований в [<img align="center" alt="LSR Group" width="60px" src="https://exposfera.spb.ru/files/21_vistavka/lsrlogo.jpg" />](https://www.lsrgroup.ru/)
 
 
 ## Контакты:
@@ -24,10 +24,10 @@
 ## Стек:
 
 <p align="left">
-<a href="https://assets.grandandtoy.com/graphics/1500x1500/c91/46/914674B7-97C2-498E-AD3A-08E4823467CB.jpg" target="_blank" rel="noreferrer"><img src="https://assets.grandandtoy.com/graphics/1500x1500/c91/46/914674B7-97C2-498E-AD3A-08E4823467CB.jpg" width="36" height="36" alt="Excel" /></a>
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
+<a href="https://assets.grandandtoy.com/graphics/1500x1500/c91/46/914674B7-97C2-498E-AD3A-08E4823467CB.jpg" target="_blank" rel="noreferrer"><img src="https://assets.grandandtoy.com/graphics/1500x1500/c91/46/914674B7-97C2-498E-AD3A-08E4823467CB.jpg" width="36" height="36" alt="Excel" /></a>  
 </p>
 
 
