@@ -10,9 +10,9 @@
 **-** 🎓 **Высшее образование** (2014г.): Санкт-Петербургский Государственный Экономический Университет, Менеджмент.
 
 **-** 📈 **2014-2015 гг:** Маркетинговый аналитик в 
-[<img align="center" alt="BN.ru" width="30px" src="https://img.hhcdn.ru/employer-logo/3267149.png" />](https://www.bn.ru/)
+[<img align="center" alt="BN.ru" width="40px" src="https://img.hhcdn.ru/employer-logo/3267149.png" />](https://www.bn.ru/)
 
-**-** :zap: **2015-2023 гг:** Ведущий аналитик данных | Руководитель группы маркетинговых исследований в [<img align="center" alt="LSR Group" width="70px" src="https://exposfera.spb.ru/files/21_vistavka/lsrlogo.jpg" />](https://www.lsrgroup.ru/)
+**-** :zap: **2015-2023 гг:** Ведущий аналитик данных | Руководитель группы маркетинговых исследований в [<img align="center" alt="LSR Group" width="60px" src="https://exposfera.spb.ru/files/21_vistavka/lsrlogo.jpg" />](https://www.lsrgroup.ru/)
 
 
 ## Контакты:
