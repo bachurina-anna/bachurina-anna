@@ -32,7 +32,7 @@
 <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer"><img src="https://logohistory.net/wp-content/uploads/2023/05/Power-BI-Logo-1536x864.jpg" width="45" height="36" alt="Power BI" /></a>  
 <a href="https://www.microsoft.com/ru-ru/microsoft-365/excel" target="_blank" rel="noreferrer"><img src="https://assets.grandandtoy.com/graphics/1500x1500/c91/46/914674B7-97C2-498E-AD3A-08E4823467CB.jpg" width="36" height="36" alt="Excel" /></a>  
 <a href="https://www.notion.so/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Notion-logo.svg" width="36" height="36" alt="Notion" /></a>  
-<a href="https://www.atlassian.com/ru/software/jira" target="_blank" rel="noreferrer"><img src="https://play-lh.googleusercontent.com/0f68qYFnXxCsbIp_Rewy-toDf1TfWKAFC4ZVN2DHVVVWK6X1uPrz_Z-yRHE4cUkpgCU=s75-rw" width="36" height="36" alt="Notion" /></a>    
+<a href="https://www.atlassian.com/ru/software/jira" target="_blank" rel="noreferrer"><img src="https://play-lh.googleusercontent.com/0f68qYFnXxCsbIp_Rewy-toDf1TfWKAFC4ZVN2DHVVVWK6X1uPrz_Z-yRHE4cUkpgCU=s75-rw" width="36" height="36" alt="Jira" /></a>    
 
 
 
