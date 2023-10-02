@@ -29,7 +29,7 @@
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
 <a href="https://public.tableau.com/app/profile/.87026916/vizzes" target="_blank" rel="noreferrer"><img src="https://surveymonkey-assets.s3.amazonaws.com/papiasset/apps/logos/2e989404-aed0-41ea-9198-ddc1c76d7a4a" width="36" height="36" alt="Tableau" /></a>
-<a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer"><img src="https://logohistory.net/wp-content/uploads/2023/05/Power-BI-Logo-1536x864.jpg" width="36" height="36" alt="Power BI" /></a>  
+<a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer"><img src="https://logohistory.net/wp-content/uploads/2023/05/Power-BI-Logo-1536x864.jpg" width="40" height="36" alt="Power BI" /></a>  
 <a href="https://assets.grandandtoy.com/graphics/1500x1500/c91/46/914674B7-97C2-498E-AD3A-08E4823467CB.jpg" target="_blank" rel="noreferrer"><img src="https://assets.grandandtoy.com/graphics/1500x1500/c91/46/914674B7-97C2-498E-AD3A-08E4823467CB.jpg" width="36" height="36" alt="Excel" /></a>  
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Notion-logo.svg" title="Notion" alt="Notion" width="40" height="40"/>&nbsp;
 </p>
